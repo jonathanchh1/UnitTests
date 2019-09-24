@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UnitTests</string>
+    <string name="demo">This is our favorite demo!</string>
+    <string name="hint">espresso test</string>
+    <string name="sample">This is the most Amazing Sample Ever</string>
+</resources>
